@@ -11,7 +11,7 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +59169082575 
+global.botNumberCode = '+595982634142' //Ejemplo: +59169082575 
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -19,9 +19,9 @@ global.confirmCode = ''
 global.owner = [
    ['59169082575', '𝚌𝚛𝚎𝚊𝚍𝚘𝚛✐', true],
    ['59169214837', '𝚘𝚗𝚠𝚎𝚛 ඩා', true],
-   ['573012482597'],
-   ['5493794297363'],
-   ['5351524614']
+   ['595982634142'],
+   ['595987357739'],
+   ['595983602447']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
